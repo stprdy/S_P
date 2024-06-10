@@ -1,0 +1,15 @@
+Object Instructions:
+
+Google Weather - Basic Actions:
+-Launch
+-Terminate
+
+Google Weather - Weather Extraction:
+-Search Weather (input text: Cityname)
+-Read Current Temp
+-Read Current Precip
+-Read Current Humidity
+-Read Current Wind
+-Read Current Descriptions
+-Read 7 Day Forecast
+
